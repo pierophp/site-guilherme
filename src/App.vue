@@ -32,6 +32,6 @@ body {
 }
 
 .item:hover {
-  background: red;
+  background: blue;
 }
 </style>
